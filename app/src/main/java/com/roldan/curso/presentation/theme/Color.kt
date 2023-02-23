@@ -1,4 +1,4 @@
-package com.roldan.curso.ui.theme
+package com.roldan.curso.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

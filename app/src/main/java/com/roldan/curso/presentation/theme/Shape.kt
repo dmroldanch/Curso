@@ -1,4 +1,4 @@
-package com.roldan.curso.ui.theme
+package com.roldan.curso.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
